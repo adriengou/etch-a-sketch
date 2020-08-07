@@ -75,3 +75,5 @@ function changeGridSize(){
     setGrid(size);
 }
 
+
+setGrid(16);
