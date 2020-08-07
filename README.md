@@ -1,0 +1,1 @@
+This is an etch-a-sketch game done with html/css/javascript.
